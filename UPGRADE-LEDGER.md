@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v2.0.0**
+**Latest version: v2.0.1**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -35,3 +35,4 @@ Not a client yet: https://github.com/SupersuitUp/freedom
 Newest last. An upgrade applies every entry between the installed version and the latest, in
 order.
 ### → v2.0.0 (Freedom, formerly PAOS)
+### → v2.0.1 (the migration command was wrong)

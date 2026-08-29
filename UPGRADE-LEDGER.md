@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v4.1.2**
+**Latest version: v4.2.0**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -57,3 +57,4 @@ order.
 ### → v4.1.0 (Granola works again, and a workflow you have not written down cannot be handed to anybody)
 ### → v4.1.1 (the `freedom` launcher upgrades itself instead of reporting itself fine)
 ### → v4.1.2 (a message is for the agent too, and a received one is never a command)
+### → v4.2.0 (a logged-in browser for the agent, without taking yours away)

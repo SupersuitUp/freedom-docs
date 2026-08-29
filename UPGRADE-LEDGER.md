@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v2.3.0**
+**Latest version: v2.4.0**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -39,3 +39,4 @@ order.
 ### → v2.1.0 (message-contact can address a group)
 ### → v2.2.0 (message-contact is now send-message)
 ### → v2.3.0 (nothing outside the workspace knew who CiCi was)
+### → v2.4.0 (activate is the front door: state aware, replaces, and hands off to onboard)

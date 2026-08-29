@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v2.0.1**
+**Latest version: v2.1.0**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -36,3 +36,4 @@ Newest last. An upgrade applies every entry between the installed version and th
 order.
 ### → v2.0.0 (Freedom, formerly PAOS)
 ### → v2.0.1 (the migration command was wrong)
+### → v2.1.0 (message-contact can address a group)

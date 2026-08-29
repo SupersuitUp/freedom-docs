@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v3.8.0**
+**Latest version: v3.9.0**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -51,3 +51,4 @@ order.
 ### → v3.6.0 (the iMessage probe was lying, and activation was installing things nobody asked for)
 ### → v3.7.0 (broadcast to the friends who agreed to hear about that topic)
 ### → v3.8.0 (`freedom` is the word you type, and activate installs it)
+### → v3.9.0 (a sync could delete your collected messages, and two silent failures)

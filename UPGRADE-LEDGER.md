@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v3.2.0**
+**Latest version: v3.3.0**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -44,3 +44,4 @@ order.
 ### → v3.0.0 (the agent is Freedom, and its soul is stated)
 ### → v3.1.0 (activation now covers every integration, and Granola is broken upstream)
 ### → v3.2.0 (a live Google token was being written inside your repo)
+### → v3.3.0 (share a session for review, and the README stops saying Jarvis)

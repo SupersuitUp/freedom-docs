@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v3.5.0**
+**Latest version: v3.5.1**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -47,3 +47,4 @@ order.
 ### → v3.3.0 (share a session for review, and the README stops saying Jarvis)
 ### → v3.4.0 (share-session actually reaches a human)
 ### → v3.5.0 (a shared session was about to publish other people's phone numbers)
+### → v3.5.1 (the redaction count was reporting 27,554 credentials)

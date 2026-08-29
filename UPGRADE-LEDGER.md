@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v4.4.0**
+**Latest version: v4.4.1**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -60,3 +60,4 @@ order.
 ### → v4.2.0 (a logged-in browser for the agent, without taking yours away)
 ### → v4.3.0 (Chrome's own fork is a second user-data-dir, so stop copying the profile)
 ### → v4.4.0 (CDP is the standard, and the profile layout that shipped broken is fixed)
+### → v4.4.1 (a fix belongs in a pull request, not pasted into an issue body)

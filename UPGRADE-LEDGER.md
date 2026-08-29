@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v3.3.0**
+**Latest version: v3.4.0**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -45,3 +45,4 @@ order.
 ### → v3.1.0 (activation now covers every integration, and Granola is broken upstream)
 ### → v3.2.0 (a live Google token was being written inside your repo)
 ### → v3.3.0 (share a session for review, and the README stops saying Jarvis)
+### → v3.4.0 (share-session actually reaches a human)

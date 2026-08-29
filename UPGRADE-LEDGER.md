@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v4.0.1**
+**Latest version: v4.1.0**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -54,3 +54,4 @@ order.
 ### → v3.9.0 (a sync could delete your collected messages, and two silent failures)
 ### → v4.0.0 (every share link is an invite, and broadcast is shelved)
 ### → v4.0.1 (previewing an invite spent one)
+### → v4.1.0 (Granola works again, and a workflow you have not written down cannot be handed to anybody)

@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v4.24.0**
+**Latest version: v4.24.1**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -87,3 +87,4 @@ order.
 ### → v4.23.1 (the image craft ships with the image skill)
 ### → v4.23.2 (the chunk model is gone from the prose too)
 ### → v4.24.0 (send-message attaches images, and proves they arrived)
+### → v4.24.1 (the attachment path imports what it uses)

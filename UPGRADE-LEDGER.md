@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v4.25.0**
+**Latest version: v4.26.0**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -90,3 +90,4 @@ order.
 ### → v4.24.1 (the attachment path imports what it uses)
 ### → v4.24.2 (attachments send with the screen locked)
 ### → v4.25.0 (attachments to groups)
+### → v4.26.0 (groups are records in the PRM)

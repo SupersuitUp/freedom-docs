@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v4.27.1**
+**Latest version: v4.27.2**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -94,3 +94,4 @@ order.
 ### → v4.26.1 (the do-not-contact check reads the whole frontmatter)
 ### → v4.27.0 (the time of day is read, never inferred)
 ### → v4.27.1 (the login code reaches you during the wait, not after it)
+### → v4.27.2 (your commits carry your name, and `report-upstream` is now `suggest-an-improvement`)

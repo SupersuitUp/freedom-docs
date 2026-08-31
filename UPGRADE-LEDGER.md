@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v4.31.1**
+**Latest version: v4.32.0**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -101,3 +101,4 @@ order.
 ### → v4.30.0 (the doctor notices you cannot open your own recordings)
 ### → v4.31.0 (saving now notices what was MISSING, not only what was wrong)
 ### → v4.31.1 (update-freedom stops telling you there is no file layer when there is)
+### → v4.32.0 (an update stops pulling the floor out from under the session, and a lapsed capture gets noticed)

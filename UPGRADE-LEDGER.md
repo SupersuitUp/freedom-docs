@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v4.40.0**
+**Latest version: v4.40.1**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -112,3 +112,4 @@ order.
 ### → v4.38.0 (the opener stops claiming your work is unsaved)
 ### → v4.39.0 (the profile opens on this week, and you can press it)
 ### → v4.40.0 (the wiki reference is behind your Freedom account, and your links open it)
+### → v4.40.1 (the checkup counted your artifacts as zero if you filed them in folders)

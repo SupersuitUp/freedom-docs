@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v4.29.0**
+**Latest version: v4.30.0**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -98,3 +98,4 @@ order.
 ### → v4.28.0 (connect every Google account you have, in one flow, and never be told about the wrong one)
 ### → v4.28.1 (`connect-google --status` actually reports status)
 ### → v4.29.0 (give the agent a logged-in browser without closing your tabs)
+### → v4.30.0 (the doctor notices you cannot open your own recordings)

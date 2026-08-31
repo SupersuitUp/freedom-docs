@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v4.34.0**
+**Latest version: v4.34.1**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -104,3 +104,4 @@ order.
 ### → v4.32.0 (an update stops pulling the floor out from under the session, and a lapsed capture gets noticed)
 ### → v4.33.0 (start-here is now initialize-session, and one skill writes project state)
 ### → v4.34.0 (Freedom refuses to run until the machine is activated and linked, and every skill is now a draft)
+### → v4.34.1 (activate stops breaking the shell profile it was repairing)

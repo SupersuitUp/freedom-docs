@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v4.40.2**
+**Latest version: v4.41.0**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -114,3 +114,4 @@ order.
 ### → v4.40.0 (the wiki reference is behind your Freedom account, and your links open it)
 ### → v4.40.1 (the checkup counted your artifacts as zero if you filed them in folders)
 ### → v4.40.2 (the checkup told you to install something without saying where from)
+### → v4.41.0 (your projects can live under more than one root)

@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v4.57.0**
+**Latest version: v4.58.0**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -134,3 +134,4 @@ order.
 ### → v4.55.0 (the installer looks at your screen instead of taking its own word for it)
 ### → v4.56.0 (a skill you write is global, or it is not a skill)
 ### → v4.57.0 (Freedom fixes things instead of asking whether to fix them)
+### → v4.58.0 (the Dock icon can open a session, forms actually get typed into, and the suite stops lying to contributors)

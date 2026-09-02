@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v4.73.0**
+**Latest version: v4.73.1**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -151,3 +151,4 @@ order.
 ### → v4.72.0 (the session opener stops handing you a menu you did not ask for)
 ### → v4.72.1 (a release stops deleting the plugin directory your session is running from)
 ### → v4.73.0 (a release now reaches your workspace without you remembering it)
+### → v4.73.1 (a profile button press is recorded even with no network)

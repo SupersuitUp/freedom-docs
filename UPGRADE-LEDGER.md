@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v4.65.0**
+**Latest version: v4.66.0**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -142,3 +142,4 @@ order.
 ### → v4.63.0 (the install no longer ends with nowhere to put anything)
 ### → v4.64.0 (the session opener stops reciting your week back at you)
 ### → v4.65.0 (skills you write live in your repo, and load everywhere)
+### → v4.66.0 (the editor stops saying FR, Freedom stops saying Sam, and two new skills)

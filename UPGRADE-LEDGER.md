@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v4.63.0**
+**Latest version: v4.64.0**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -140,3 +140,4 @@ order.
 ### → v4.61.0 (a save ends by telling you to close the session)
 ### → v4.62.0 (three reports from one operator, all with the patch attached)
 ### → v4.63.0 (the install no longer ends with nowhere to put anything)
+### → v4.64.0 (the session opener stops reciting your week back at you)

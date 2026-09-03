@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v4.83.0**
+**Latest version: v4.84.0**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -162,3 +162,4 @@ order.
 ### → v4.81.0 (your terminal tabs and your session say which ones are Freedom)
 ### → v4.82.0 (your skills now keep a record of how they actually went)
 ### → v4.83.0 (state that exists in two places is now caught, not believed)
+### → v4.84.0 (a recording from this morning cannot hide inside a lifetime count)

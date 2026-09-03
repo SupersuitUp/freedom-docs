@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v4.75.0**
+**Latest version: v4.76.0**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -154,3 +154,4 @@ order.
 ### → v4.73.1 (a profile button press is recorded even with no network)
 ### → v4.74.0 (the opener's last line is a door, not a yes/no)
 ### → v4.75.0 (opening a session stops waiting on `claude mcp list`)
+### → v4.76.0 (a session opens in a third of a second)

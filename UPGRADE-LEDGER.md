@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v4.87.0**
+**Latest version: v4.88.0**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -166,3 +166,4 @@ order.
 ### → v4.85.0 (you can hand over a lot of context without handing over anything private)
 ### → v4.86.0 (a three-way call is where "Granola wins" quietly destroys a recording)
 ### → v4.87.0 (a skill you wrote is a workflow you stopped doing by hand, and the board never heard about it)
+### → v4.88.0 (a forty-release gap read exactly like a one-release gap, and the setup audit was asking for an admin password)

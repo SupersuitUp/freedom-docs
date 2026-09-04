@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v4.113.0**
+**Latest version: v4.114.0**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -192,3 +192,4 @@ order.
 ### → v4.111.0 (Freedom signs the messages it sends you)
 ### → v4.112.0 (co-work pairs two machines, not two terminals)
 ### → v4.113.0 (a quiet pairing is not a dead one)
+### → v4.114.0 (a voice gate, and someone else to tell)

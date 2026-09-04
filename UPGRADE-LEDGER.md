@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v4.95.0**
+**Latest version: v4.100.0**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -174,3 +174,7 @@ order.
 ### → v4.93.0 (the budget picked the doctrine, so the budget moved)
 ### → v4.94.0 (the argument for closing a chat only ever reached people who already saved)
 ### → v4.95.0 (a next action with no time on it is a wish)
+### → v4.97.0 (a rule that arrives after the draft is an audit, not a rule)
+### → v4.98.0 (a finished project is kept and moved, and only one of those is set by hand)
+### → v4.99.0 (a project folder holds two files, and everything else is a stamped artifact)
+### → v4.100.0 (a shipped personality that never arrived, and nothing said so)

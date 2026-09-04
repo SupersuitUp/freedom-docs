@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v4.104.0**
+**Latest version: v4.105.0**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -182,3 +182,4 @@ order.
 ### → v4.102.0 (a commit nobody can pull is a draft)
 ### → v4.103.0 (the editor updates from inside the editor, which is where operators are)
 ### → v4.104.0 (six ways a sync could lose your messages and say nothing)
+### → v4.105.0 (remote control that survives closing the terminal)

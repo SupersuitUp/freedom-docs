@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v4.93.0**
+**Latest version: v4.94.0**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -172,3 +172,4 @@ order.
 ### → v4.91.0 (a skill nobody measured is a skill nobody can prove is improving)
 ### → v4.92.0 (Freedom marks the march, and marks it with arithmetic)
 ### → v4.93.0 (the budget picked the doctrine, so the budget moved)
+### → v4.94.0 (the argument for closing a chat only ever reached people who already saved)

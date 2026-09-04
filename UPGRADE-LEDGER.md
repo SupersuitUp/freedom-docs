@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v4.100.0**
+**Latest version: v4.102.0**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -178,3 +178,5 @@ order.
 ### → v4.98.0 (a finished project is kept and moved, and only one of those is set by hand)
 ### → v4.99.0 (a project folder holds two files, and everything else is a stamped artifact)
 ### → v4.100.0 (a shipped personality that never arrived, and nothing said so)
+### → v4.101.0 (the drafting rules can be skipped; the send path cannot)
+### → v4.102.0 (a commit nobody can pull is a draft)

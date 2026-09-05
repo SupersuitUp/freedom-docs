@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v4.125.0**
+**Latest version: v4.126.0**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -206,3 +206,4 @@ order.
 ### → v4.124.0 (share a session to a phone, if that person is actually in your contacts)
 ### → v4.124.1 (the invite was hand-wrapped, and the check for that could not see it)
 ### → v4.125.0 (a report that filed nothing and looked like it worked, and the live room that already existed)
+### → v4.126.0 (artifacts/ is documents/, and an unmigrated workspace keeps reading either way)

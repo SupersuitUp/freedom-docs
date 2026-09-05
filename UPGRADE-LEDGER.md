@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v4.131.0**
+**Latest version: v4.132.0**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -214,3 +214,4 @@ order.
 ### → v4.130.0 (nine windows open was nine saves to run)
 ### → v4.130.1 (a frapp that refuses to hand you a URL, and why)
 ### → v4.131.0 (a save that skipped a project looked exactly like one that did not)
+### → v4.132.0 (a stale concept page looks like canon)

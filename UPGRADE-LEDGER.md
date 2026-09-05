@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v4.122.0**
+**Latest version: v4.123.0**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -201,3 +201,4 @@ order.
 ### → v4.120.0 (the tab closes now, and a correction to v4.115.0)
 ### → v4.121.0 (the skill-reference gate refuses at the commit, and the clipboard proves it landed)
 ### → v4.122.0 (the audit handed you findings one turn at a time, and called your file paths commands)
+### → v4.123.0 (a first sync lost its checkpoint, and your commits were counted under one identity)

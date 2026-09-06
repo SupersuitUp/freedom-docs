@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v4.140.0**
+**Latest version: v4.141.0**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -223,3 +223,4 @@ order.
 ### → v4.138.0 (nine ways to ask "am I set up?" became one)
 ### → v4.139.0 (a gate you can only test by doing the dangerous thing is not a gate)
 ### → v4.140.0 (a receipt is not an obituary)
+### → v4.141.0 (there is a way to close a session, and it makes the closing worth something)

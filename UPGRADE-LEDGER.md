@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v4.138.0**
+**Latest version: v4.139.0**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -221,3 +221,4 @@ order.
 ### → v4.136.0 (your profile opens on what each day was FOR, not which folders it touched)
 ### → v4.137.0 (the two frapps Freedom ships now use the frapp library)
 ### → v4.138.0 (nine ways to ask "am I set up?" became one)
+### → v4.139.0 (a gate you can only test by doing the dangerous thing is not a gate)

@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v4.145.0**
+**Latest version: v4.146.0**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -230,3 +230,4 @@ order.
 ### → v4.143.0 (capture can run when nobody is there, and defers what it must not decide)
 ### → v4.144.0 (three silent-failure paths the first unattended run exposed)
 ### → v4.145.0 (the judgment frapp is the question surface, and two more silent losses)
+### → v4.146.0 (one door for frapps, and a store that stays up)

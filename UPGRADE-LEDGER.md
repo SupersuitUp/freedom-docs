@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v4.152.0**
+**Latest version: v4.153.0**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -237,3 +237,4 @@ order.
 ### → v4.150.0 (the opener ends with four doors, and a saved thread is never offered back)
 ### → v4.151.0 (the activation host is a name we own)
 ### → v4.152.0 (snooze is honoured everywhere, and a tapped build starts here)
+### → v4.153.0 (the portal: the shared frapp app's first screen)

@@ -5,7 +5,7 @@ description: Locate and fetch the current Freedom upgrade ledger. The full ledge
 
 # Freedom Upgrade Ledger — version index
 
-**Latest version: v4.141.2**
+**Latest version: v4.142.0**
 
 This file is public on purpose, and it is deliberately thin.
 
@@ -226,3 +226,4 @@ order.
 ### → v4.141.0 (there is a way to close a session, and it makes the closing worth something)
 ### → v4.141.1 (the upgrade step named a command that no longer exists)
 ### → v4.141.2 (the close of a turn is a receipt)
+### → v4.142.0 (a phone session is promoted onto the desk by a file, not a keystroke)
